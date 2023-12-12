@@ -21,7 +21,7 @@ Você também pode me encontrar em 👇
 </div>
 
 
-### Esses são algumas das tecnologias que gosto de usar:
+### Essas são algumas das tecnologias que gosto de usar:
 
 
 Front-end
