@@ -1,6 +1,8 @@
 ## Olá, seja bem-vindo! ✌
 
-Meu nome é Vinicius e eu sou um dev full-stack de Pacaembu, São Paulo. Eu gosto de programar e meu objetivo é criar sites e aplicativos incríveis que resolvam problemas do mundo real e ao mesmo tempo fiquem bonitos em todos os dispositivos. Tenho maior conhecimento e preferência em front-end, porém também tenho conhecimento sólido em back-end. Atualmente estou buscando por oportunidades no mercado de trabalho.
+Meu nome é Vinicius e eu sou um dev full-stack de Pacaembu, São Paulo. Eu gosto de programar e meu objetivo é criar sites e aplicativos incríveis que resolvam problemas do mundo real e ao mesmo tempo fiquem bonitos em todos os dispositivos. Tenho maior conhecimento e preferência em front-end, porém também tenho conhecimento sólido em back-end.
+
+Vamos criar algo incrível juntos? 🚀
 
 
 <a href="#">
